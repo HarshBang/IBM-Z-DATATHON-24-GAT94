@@ -2,6 +2,19 @@
 
 # 📊 YouTube Video Engagement Rate Prediction
 
+### Table of Contents
+
+1. [Introduction](#introduction)
+2. [Data Collection and Preprocessing](#-data-collection-and-preprocessing)
+3. [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
+4. [Feature Engineering & Model Selection](#-feature-engineering--model-selection)
+5. [Model Deployment](#-model-deployment)
+6. [Results and Insights](#-results-and-insights)
+7. [Future Scope](#-future-scope) *(Highly recommended to review for further potential)*
+8. [Conclusion](#-conclusion)
+
+
+---
 ## Introduction
 
 This project focuses on predicting video engagement rates on YouTube, a crucial metric for content creators aiming to grow their audience and optimize their performance. With the rise of digital content consumption, it has become increasingly important for creators to understand which factors drive engagement, including views, likes, comments, and shares. Our solution leverages machine learning models to predict engagement based on key video attributes, helping emerging content creators make informed decisions to increase their reach and success on the platform.
